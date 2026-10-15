@@ -19,7 +19,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code**: My go-to for database management and executing SQL queries.
 - **Git & GitHub***: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
-# The Analysis
+
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question:
 
@@ -255,8 +255,6 @@ Through this project, I strengthened my SQL skills in several key areas:
 - **Complex Query Construction:** Developed proficiency in advanced SQL, including joining multiple tables and using Common Table Expressions (CTEs) with `WITH` clauses to structure and simplify complex queries.
 - **Data Aggregation:** Applied `GROUP BY` alongside aggregate functions such as `COUNT()` and `AVG()` to summarize large datasets and extract meaningful metrics.
 - **Analytical Problem-Solving:** Translated real-world business questions into structured SQL queries, producing clear, data-driven insights to support decision-making.
-# Conclusions
-
 # Conclusions
 
 ### Insights
